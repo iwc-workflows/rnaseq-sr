@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-20T16:44:26.999385",
+            "datePublished": "2026-10-28T06:59:57.498585",
             "hasPart": [
                 {
                     "@id": "rnaseq-sr.ga"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/rnaseq-sr",
-            "version": "1.7"
+            "version": "1.8"
         },
         {
             "@id": "#galaxy",
